@@ -1,6 +1,6 @@
 Name:		texlive-scrlayer-fancyhdr
 Version:	63844
-Release:	1
+Release:	2
 Summary:	Combining package fancyhdr with KOMA-Script's scrlayer
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/scrlayer-fancyhdr
