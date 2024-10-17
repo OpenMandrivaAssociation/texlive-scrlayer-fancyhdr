@@ -3,7 +3,7 @@ Version:	63844
 Release:	2
 Summary:	Combining package fancyhdr with KOMA-Script's scrlayer
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/scrlayer-fancyhdr
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/scrlayer-fancyhdr
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/scrlayer-fancyhdr.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/scrlayer-fancyhdr.doc.r%{version}.tar.xz
